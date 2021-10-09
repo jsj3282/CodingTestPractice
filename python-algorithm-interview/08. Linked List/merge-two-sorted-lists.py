@@ -1,4 +1,4 @@
-# Solution1 : 재귀 구조로 연결 -> 복습 필요
+# Solution1 : 재귀 구조로 연결 -> 복습 필요(https://www.youtube.com/watch?v=_MZbRhMgtls)
 
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
