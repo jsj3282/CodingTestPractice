@@ -14,6 +14,7 @@ class Solution:
         
         return True
 
+    
 # Solution2 : 데크 자료형을 위한 최적화
 
 class Solution:
@@ -29,8 +30,9 @@ class Solution:
                 return False
         
         return True
-      
-# 슬라이싱 사용
+
+    
+# Solution3 : 슬라이싱 사용
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
