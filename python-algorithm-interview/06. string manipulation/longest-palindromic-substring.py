@@ -1,4 +1,4 @@
-# 중앙을 중심으로 확장하는 풀이(투 포인터)
+# Solution1 : 중앙을 중심으로 확장하는 풀이(투 포인터)
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
