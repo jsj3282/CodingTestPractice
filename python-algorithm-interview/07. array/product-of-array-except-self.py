@@ -1,4 +1,4 @@
-# Solution1 : 왼쪽 곱셈 결과에 오른족 값을 차례대로 곱셈 - 나눗셈을 하지 않고 O(n)에 풀이하라
+# Solution1 : 왼쪽 곱셈 결과에 오른족 값을 차례대로 곱셈 - 나눗셈을 하지 않고 O(n)에 풀이하라 -> 복습 필요
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
