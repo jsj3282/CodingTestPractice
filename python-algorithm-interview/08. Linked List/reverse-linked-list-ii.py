@@ -1,4 +1,4 @@
-# Solution1 : 반복 구조로 노드 뒤집기
+# Solution1 : 반복 구조로 노드 뒤집기 -> 복습 필요
 
 class Solution:
     def reverseBetween(self, head: ListNode, m: int, n: int) -> ListNode:
