@@ -1,4 +1,4 @@
-# Solution1 : 자료형 변환 -> 복습 필요
+# Solution1 : 자료형 변환 -> 복습 필요(https://www.youtube.com/watch?v=NZq2Qtt1SbE)
 
 class Solution:
     # 연결 리스트 뒤집기
