@@ -34,7 +34,7 @@ class Solution:
         return root.next
  
 
-# Solution3 : 재귀 구조로 스왑
+# Solution3 : 재귀 구조로 스왑 -> 복습 필요
 
 class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
