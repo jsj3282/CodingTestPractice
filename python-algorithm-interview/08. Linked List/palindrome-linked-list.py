@@ -44,7 +44,7 @@ class Solution:
         return True
 
 
-# Solution3 : 런너를 이용한 우아한 풀이 -> 복습 필요
+# Solution3 : 런너를 이용한 우아한 풀이 -> 복습 필요(https://velog.io/@jayb/LeetCode-234.Palindrome-Linked-List%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 
 class Solution:
     def isPalindrome(self, head: ListNode) -> bool:
