@@ -1,4 +1,4 @@
-# Solution1 : 반복 구조로 홀짝 노드 처리 -> 복습 필요
+# Solution1 : 반복 구조로 홀짝 노드 처리 -> 복습 필요(https://bellog.tistory.com/140)
 
 class Solution:
     def oddEvenList(self, head: ListNode) -> ListNode:
